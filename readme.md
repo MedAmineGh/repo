@@ -1,4 +1,4 @@
-#  YOLOv8 Training Script
+#  YOLOv11 Relu6 classication Training Script
 
 Ce script permet d'entraîner un modèle YOLOv8 en utilisant la bibliothèque Ultralytics.
 
