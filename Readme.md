@@ -24,7 +24,7 @@ pip install ultralytics
 ```bash
 from ultralytics import YOLO
 
-model = YOLO("yolov8n.pt")
+model = YOLO("yolov8s.pt")
 ```
 Le modèle YOLOv8n est chargé avec des poids pré-entraînés sur COCO.
 
