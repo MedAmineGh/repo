@@ -25,8 +25,6 @@ python train_age_regression.py
 
 Le second script utilise une approche de classification pour estimer l'âge.
 
-Fichier : train_age_classification.py
-
 **Explication :**
 
   -Utilisation de YOLOv11 RELU6 avec un fichier de configuration relu6-yolov11-cls.yaml.
