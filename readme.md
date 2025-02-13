@@ -10,44 +10,42 @@ Avant d'exécuter ce script, assurez-vous d'avoir installé les dépendances req
 pip install ultralytics
 ```
 
-Utilisation
+#  Utilisation
 
 Le script train_yolo.py est conçu pour entraîner un modèle YOLOv8 en utilisant un fichier de configuration et un dataset défini.
 
-Exécution du script
+#  Exécution du script
 
 Pour lancer l'entraînement, exécutez la commande suivante :
 
+```bash
 python train_yolo.py
+```
 
-Paramètres
+#  Paramètres
 
 Le script prend les paramètres suivants :
 
-model_path: Chemin vers le modèle YOLO (pré-entraîné ou fichier YAML pour un entraînement à partir de zéro). Par défaut : relu6-yolov11-cls.yaml.
+**model_path:** Chemin vers le modèle YOLO (pré-entraîné ou fichier YAML pour un entraînement à partir de zéro). Par défaut : relu6-yolov11-cls.yaml.
 
-data_path: Chemin vers le fichier YAML contenant les informations du dataset. Par défaut : data.yaml.
+**data_path:** Chemin vers le fichier YAML contenant les informations du dataset. Par défaut : data.yaml.
 
-epochs: Nombre d'époques d'entraînement. Par défaut : 50.
+**epochs:** Nombre d'époques d'entraînement. Par défaut : 50.
 
-batch_size: Taille du batch. Par défaut : 16.
+**batch_size:** Taille du batch. Par défaut : 16.
 
-img_size: Taille des images d'entrée. Par défaut : 640.
+**img_size:** Taille des images d'entrée. Par défaut : 640.
 
-Exemple d'utilisation avec des arguments personnalisés
-
-Si vous souhaitez modifier les paramètres, éditez directement le script ou passez les arguments dans la fonction train_yolo().
-
-Résultats de l'entraînement
+#  Résultats de l'entraînement
 
 Après l'entraînement, les résultats seront sauvegardés dans un dossier généré par la bibliothèque Ultralytics, contenant :
 
-Les poids du modèle entraîné.
+  -Les poids du modèle entraîné.
 
-Les logs d'entraînement.
+  -Les logs d'entraînement.
 
-Les graphiques de performance.
+  -Les graphiques de performance.
 
-Remarque
+#  Remarque
 
 Assurez-vous que votre dataset est correctement structuré et défini dans data.yaml.
