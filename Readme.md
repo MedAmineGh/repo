@@ -1,4 +1,4 @@
-#  YOLOv8 Training and Inference Script
+#  YOLOv8s Training and Inference Script
 
 **Description**
 
