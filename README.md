@@ -43,8 +43,8 @@ python train_age_classification.py
 
 | Méthode       | Type de Sortie          | Modèle Utilisé         | Epochs | Taille Image | Batch Size |
 |--------------:|:-----------------------:|-----------------------:|-------:|-------------:|-----------:|
-| Régression    | Valeur continue         | `yolov8n-regress.yaml` |      3 | Par défaut   | Par défaut |
-| Classification| Catégorie (âge en classe)| `relu6-yolov11-cls.yaml` |     50 | 640         | 16        |
+| Régression    | Valeur continue         | `yolov11n-regress.yaml` |      3 | Par défaut   | Par défaut |
+| Classification| Catégorie (âge en classe)| `relu6-yolov11n-cls.yaml` |     50 | 640         | 16        |
 
 
 #  Prérequis
