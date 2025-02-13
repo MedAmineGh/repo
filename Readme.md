@@ -1,6 +1,6 @@
 #  Détection de Visages avec YOLOv8n
 
-Ce projet utilise YOLOv8 pour la détection de visages dans des images.
+Ce projet utilise YOLOv8n_face pour la détection de visages dans des images.
 
 #  1. Présentation
 
