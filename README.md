@@ -12,9 +12,9 @@ Le premier script utilise une approche de régression pour estimer l'âge.
 
 **Explication :**
 
-Utilisation de YOLOv11 RELU6 avec un fichier de configuration yolov11n-regress.yaml.
+  -Utilisation de YOLOv11 RELU6 avec un fichier de configuration yolov11n-regress.yaml.
 
-Le dataset est défini dans imdb10-age.yaml.
+  -Le dataset est défini dans imdb10-age.yaml.
 
 **Exécution :**
 ```bash
@@ -29,9 +29,9 @@ Fichier : train_age_classification.py
 
 **Explication :**
 
-Utilisation de YOLOv11 RELU6 avec un fichier de configuration relu6-yolov11-cls.yaml.
+  -Utilisation de YOLOv11 RELU6 avec un fichier de configuration relu6-yolov11-cls.yaml.
 
-Le dataset est défini dans data.yaml.
+  -Le dataset est défini dans data.yaml.
 
 **Exécution :**
 ```bash
