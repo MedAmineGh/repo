@@ -6,7 +6,9 @@ Ce script permet d'entraîner un modèle YOLOv8 en utilisant la bibliothèque Ul
 
 Avant d'exécuter ce script, assurez-vous d'avoir installé les dépendances requises :
 
+```bash
 pip install ultralytics
+```
 
 Utilisation
 
