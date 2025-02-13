@@ -2,7 +2,7 @@
 
 **Description**
 
-Ce script utilise la bibliothèque Ultralytics YOLO pour charger un modèle YOLOv8n pré-entraîné sur COCO, l'entraîner sur un sous-ensemble de COCO et effectuer une inférence sur une image.
+Ce script utilise la bibliothèque Ultralytics YOLO pour charger un modèle YOLOv8s pré-entraîné sur COCO, l'entraîner sur un sous-ensemble de COCO et effectuer une inférence sur une image.
 
 **Prérequis**
 
