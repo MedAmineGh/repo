@@ -1,7 +1,8 @@
 #    Deep SORT Realtime
 
 Cette implémentation est une version adaptée de Deep SORT (Simple Online and Realtime Tracking) permettant de suivre des objets en temps réel.
-Dépendances
+
+#  Dépendances
 
 Avant de commencer, assurez-vous d'installer les dépendances nécessaires à votre environnement :
 ```bash
