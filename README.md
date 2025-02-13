@@ -45,6 +45,4 @@ Le script dessine les boîtes de suivi sur chaque frame, associées à un identi
 
 
 
-#    Conclusion
 
-Le script ObjectTracker_infer.py montre comment intégrer Deep SORT avec un détecteur d'objets pour suivre des objets en temps réel. Ce modèle est conçu pour être flexible et peut être adapté pour utiliser différents types de détecteurs en fonction de vos besoins.
