@@ -12,7 +12,7 @@ pip install ultralytics
 
 #  Utilisation
 
-Le script train_yolo.py est conçu pour entraîner un modèle YOLOv8 en utilisant un fichier de configuration et un dataset défini.
+Le script train_yolo.py est conçu pour entraîner un modèle YOLOv11 Relu6 classfication en utilisant un fichier de configuration et un dataset défini.
 
 #  Exécution du script
 
