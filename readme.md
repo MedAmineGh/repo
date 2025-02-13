@@ -1,8 +1,8 @@
-YOLOv8 Training Script
+#  YOLOv8 Training Script
 
 Ce script permet d'entraîner un modèle YOLOv8 en utilisant la bibliothèque Ultralytics.
 
-Prérequis
+#  **Prérequis**
 
 Avant d'exécuter ce script, assurez-vous d'avoir installé les dépendances requises :
 
