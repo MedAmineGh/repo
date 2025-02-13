@@ -10,9 +10,7 @@ Ce projet propose deux approches pour estimer l'âge à l'aide du modèle YOLO :
 
 Le premier script utilise une approche de régression pour estimer l'âge.
 
-Fichier : train_age_regression.py
-
-Explication :
+**Explication :**
 
 Utilise YOLOv11 RELU6 avec un fichier de configuration yolov11n-regress.yaml.
 
